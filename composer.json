@@ -1,0 +1,17 @@
+{
+    "name": "spadaritucks/mvc-flamework-php",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Spadaritucks\\MvcFlameworkPhp\\": "src/",
+            "app\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "spadaritucks",
+            "email": "thiago.spadari02@gmail.com"
+        }
+    ],
+    "require": {}
+}
